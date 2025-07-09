@@ -1,0 +1,10 @@
+weather-journal-api/
+├── app/
+│   ├── main.py              # Entry point
+│   ├── models.py            # SQLAlchemy models
+│   ├── schemas.py           # Pydantic schemas
+│   ├── crud.py              # DB operations
+│   ├── database.py          # DB engine/session setup
+│   └── routes.py            # API routes
+├── requirements.txt
+└── README.md
